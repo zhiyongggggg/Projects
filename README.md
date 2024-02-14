@@ -1,2 +1,6 @@
-# Projects
-An overview of all the projects I have done (links can be found in README file)
+# My Projects
+1. HDB Resale Price Prediction (SC1015 Project) - [View](https://devpost.com/software/hdb-resale-price-prediction)
+2. Healthify - [View](https://devpost.com/software/healthify-43gypr)
+3. Offun - [View](https://devpost.com/software/team-trying-our-best)
+4. TechJob - [View](https://devpost.com/software/techjob?ref_content=user-portfolio&ref_feature=in_progress)
+5. Friends of the Community - [View](https://devpost.com/software/trying-our-best)
