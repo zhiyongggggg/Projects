@@ -1,7 +1,7 @@
 # My Projects
 
 Here is a compiled list of the project I have worked on:
-> The GitHub repository links can be found in the devpost under "Try it out".
+The GitHub repository links can be found in the devpost under "Try it out".
 
 1. HDB Resale Price Prediction (SC1015 Project) - [View](https://devpost.com/software/hdb-resale-price-prediction)
   > Python, NumPy, Scikit-Learn, Pandas, Matplotlib
