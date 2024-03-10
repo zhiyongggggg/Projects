@@ -2,7 +2,9 @@
 
 The GitHub repository links can be found in the devpost under "Try it out". Here is a compiled list of the project I have worked on:
 
-1. HDB Resale Price Prediction (SC1015 Project) - [View](https://devpost.com/software/hdb-resale-price-prediction)
+1. Treeco. (Hackathon organized by Google and NTU dEEEveloper Club) - [View](https://www.youtube.com/watch?v=w3nlskYGwhc&ab_channel=AustinCode)
+  > React.js, Firebase, CSS, Vertex Computer Vision API, Gemini API, Google Maps API
+2. HDB Resale Price Prediction (SC1015 Project) - [View](https://devpost.com/software/hdb-resale-price-prediction)
   > Python, NumPy, Scikit-Learn, Pandas, Matplotlib
 3. Healthify - [View](https://devpost.com/software/healthify-43gypr)
   > Python, Python, HTML, CSS, Flask, SQLite3
