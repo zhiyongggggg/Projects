@@ -2,6 +2,8 @@
 
 The GitHub repository links can be found in the devpost under "Try it out". Here is a compiled list of the project I have worked on:
 
+1. NoteShare - [View](https://sharemynotes.vercel.app/)
+   > Next.js, AWS S3, Postgres, Supabase, Tailwind CSS, Docker
 1. SimplySplit - [View](https://simplysplit-87576.web.app/login)
   > React.js, Firebase, CSS
 2. Treeco. (Hackathon organized by Google and NTU dEEEveloper Club) - [View](https://www.youtube.com/watch?v=w3nlskYGwhc&ab_channel=AustinCode)
